@@ -20,22 +20,19 @@ https://no-excuses-accountab-9ovb.bolt.host/
 ## 📂 Project Setup
 
 Clone the repository:
-```bash
+```
 git clone https://github.com/shafaq0410/no-excuses-app.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd no-excuses-app
 Install dependencies (if applicable):
 
-bash
-Copy code
+
 npm install
 Run the project locally:
 
-bash
-Copy code
+
 npm run dev
 📌 Purpose
 This project was built to practice real-world development workflows including:
